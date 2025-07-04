@@ -1,5 +1,8 @@
 # Retail Sales Analysis SQL Project
 
+[Black and White Simple Professional Data Analysis Presentation.pdf](https://github.com/user-attachments/files/21057584/Black.and.White.Simple.Professional.Data.Analysis.Presentation.pdf)
+
+
 ## Project Overview
 
 This project involves analyzing a retail sales dataset using Structured Query Language (SQL) to uncover key insights about customer behavior, product category performance, transaction trends, and sales profitability.
@@ -16,7 +19,7 @@ By leveraging SQL queries, the project simulates real-world retail business repo
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
+- **Database Creation**: The project starts by creating a database named `sql_project_p2`.
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
