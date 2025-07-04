@@ -1,6 +1,6 @@
 # Retail Sales Analysis SQL Project
 
-[Black and White Simple Professional Data Analysis Presentation.pdf](https://github.com/user-attachments/files/21057584/Black.and.White.Simple.Professional.Data.Analysis.Presentation.pdf)
+![Sales Analysis Preview](sales_analysis_page-0001.jpg)
 
 
 ## Project Overview
