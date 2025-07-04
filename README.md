@@ -1,6 +1,7 @@
 # Retail Sales Analysis SQL Project
 
-![Sales Analysis Preview](sales_analysis_page-0001.jpg)
+<img src="sales_analysis_page-0001.jpg" alt="Sales Analysis Preview" height="300">
+
 
 
 ## Project Overview
